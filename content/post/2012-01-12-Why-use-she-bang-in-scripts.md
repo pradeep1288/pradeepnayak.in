@@ -5,7 +5,7 @@ date: "2012-01-12T00:00:00Z"
 tags:
 - linux
 - scripting
-title: Why use '#!' in scripts
+title: Why use she bang in scripts
 ---
 
 Originally, we only had one shell on Unix. When you asked to run a command, the shell would attempt to invoke one of the exec() system calls on it. It the command was an executable, the exec would succeed and the command would run. If the exec() failed, the shell would not give up, instead it would try to interpret the command file as if it were a shell script.
