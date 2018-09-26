@@ -1,0 +1,12 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes/themes/hugo-academic"]
+	path = themes/themes/hugo-academic
+	url = https://github.com/gcushen/hugo-academic.git
+[submodule "themes/hugo-academic"]
+	path = themes/hugo-academic
+	url = https://github.com/gcushen/hugo-academic.git
+[submodule "themes/coder"]
+	path = themes/coder
+	url = https://github.com/luizdepra/hugo-coder.git
