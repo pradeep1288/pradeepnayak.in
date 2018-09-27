@@ -2,9 +2,6 @@
 date: "2016-07-24T00:00:00Z"
 coverImage: /images/amtrack.jpg
 excerpt: Traveling cross country across America by Train
-header:
-  caption: Westbound California Zephyr by Book Cliffs in Utah (**Wikipedia**)
-  teaser: amtrack.jpg
 tags:
 - rail
 - cross country

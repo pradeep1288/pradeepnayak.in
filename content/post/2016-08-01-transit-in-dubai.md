@@ -1,10 +1,6 @@
 ---
 date: "2016-08-01T00:00:00Z"
-excerpt: Itinerary ideas for a 24hr layover in Dubai airport
-header:
-  caption: Dubai Skyline as seen from Palm Jumeriah monorail
-  overlay_image: dubai.jpg
-  teaser: dubai.jpg
+coverImage: /images/dubai.jpg
 tags:
 - transit
 - airport
