@@ -2,11 +2,10 @@
 categories:
 - travel
 date: "2016-01-14T00:00:00Z"
+coverImage: /images/multonmah_falls.jpg
 excerpt: Ideas on a weekned itenary visiting Portland
 header:
   caption: Multonmah Falls, Portland
-  image: multonmah_falls.jpg
-  teaser: multonmah_falls.jpg
 tags:
 - airbnb
 - portland
