@@ -33,7 +33,7 @@ Each roaster is unique and have a speciality of their own. The most important th
 * [Onyx Coffee Lab](https://onyxcoffeelab.com/collections/coffee)
 * [S&W Craft Roasting](https://swroasting.com/)
 * [Contraband Coffee Bar](www.contrabandcoffeebar.com/)
-* [Sidecar Coffee Shop](https://www.sidecarcoffee.com/)
+* [Sightglass Coffee](https://sightglasscoffee.com)
 
 ## Experience
 Once I had all this setup, it was basically about experimenting and figuring out what worked best for me. It took me multiple attempts to learn and understand whats the correct grind size, the right temperature, the perfect coffee to water ratio and the pour time. I now think I have a decent recipe which I feel comfortable with. Making coffee is a very therapeutic experience for me right from the sound of grinding the beans, watching the coffee breathe during the bloom phase and the aroma of fresh coffee in the morning.
