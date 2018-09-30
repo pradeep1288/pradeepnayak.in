@@ -42,4 +42,4 @@ This whole experience of making good coffee at home has now turned into a ritual
 the [Comandante](http://www.comandantegrinder.com/) which is deemed to be the best hand grinder in the world and its made in Germany!!
 
 
-Cover Image: The cover image is shot by me and it shows coffee brewed in a  Chemex and Fellow Stagg Kettle.
+**Cover Image**: The cover image is shot by me and it shows coffee brewed in a  Chemex and Fellow Stagg Kettle.
